@@ -223,7 +223,8 @@ footer .footer-text a{
 }
 
 #txt-sobre dl {
-    width: 50%;
+    margin-left: 43px;
+    width: 40%;
 }
 
 #img-conteudo-sobre{
